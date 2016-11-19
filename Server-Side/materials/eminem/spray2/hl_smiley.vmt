@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/sprays/default/hl_smiley"
+	"$translucent" 1
+	"$decalscale"	"0.25"
+}

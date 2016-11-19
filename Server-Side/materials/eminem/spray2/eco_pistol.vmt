@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/sprays/default/eco_pistol"
+	"$translucent" 1
+	"$decalscale"	"0.25"
+}
