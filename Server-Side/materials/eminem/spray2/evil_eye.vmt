@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/sprays/default/evil_eye"
+	"$translucent" 1
+	"$decalscale"	"0.25"
+}

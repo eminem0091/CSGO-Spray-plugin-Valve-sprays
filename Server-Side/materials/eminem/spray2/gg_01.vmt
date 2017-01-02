@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/sprays/default/gg_01"
+	"$translucent" 1
+	"$decalscale"	"0.25"
+}
