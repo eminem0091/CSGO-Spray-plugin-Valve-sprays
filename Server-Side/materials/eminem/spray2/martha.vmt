@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/sprays/community_mix01/martha"
+	"$translucent" 1
+	"$decalscale"	"0.25"
+}

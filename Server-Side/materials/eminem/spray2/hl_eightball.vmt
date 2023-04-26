@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/sprays/default/hl_eightball"
+	"$translucent" 1
+	"$decalscale"	"0.25"
+}
